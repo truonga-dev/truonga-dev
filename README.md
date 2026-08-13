@@ -1,4 +1,4 @@
-# Xin chào, tôi là Trường
+# Xin chào, tôi là Trưởng(T7A105)
 
 Sinh viên năm 4 ngành Công nghệ Phần mềm tại Đại học Đông Á, Đà Nẵng, chuyên sâu về Enterprise Software Development và Machine Learning Applications.
 
@@ -46,5 +46,5 @@ Các dự án khác có thể xem tại danh sách [repository](https://github.c
 
 ## Thống kê
 
-![Stats](https://github-readme-stats.vercel.app/api?username=truonga-dev&show_icons=true&theme=default&hide_border=true)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truonga-dev&layout=compact&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=truonga-dev&show_icons=true&theme=default&hide_border=true&cache_seconds=86400)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truonga-dev&layout=compact&hide_border=true&cache_seconds=86400)
