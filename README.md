@@ -1,6 +1,6 @@
 # Xin chào, tôi là Trưởng (T7A105)
 
-Sinh viên năm 4 ngành Công nghệ Phần mềm tại Đại học Đông Á, Đà Nẵng, chuyên ngành Technology Software.
+Sinh viên năm 4 ngành Công nghệ Phần mềm tại Đại học Đông Á, Đà Nẵng, chuyên ngành Software Technology.
 
 Liên hệ: [LinkedIn](https://www.linkedin.com/in/truong-a-376a9b331/) · [X](https://x.com/anhcrisdev)
 
