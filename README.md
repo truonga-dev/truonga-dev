@@ -46,5 +46,7 @@ Các dự án khác có thể xem tại danh sách [repository](https://github.c
 
 ## Thống kê
 
-![Stats](https://github-readme-stats-fast.vercel.app/api?username=truonga-dev&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)
-![Top langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=truonga-dev&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
+<p align="left">
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=truonga-dev&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Stats" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=truonga-dev&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top langs" />
+</p>
